@@ -15,6 +15,7 @@ Ademas distintos features increibles como function calling, json mode, caching y
 🔽🔽🔽🔽🔽🔽🔽🔽 
 
 [Gemini pro - Notebook](Gemini_pro.ipynb)
+
 [Gemini pro Features avanzadas - Notebook](Gemini-API-Features.ipynb)
 
 
